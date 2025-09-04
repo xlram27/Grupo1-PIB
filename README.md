@@ -54,6 +54,16 @@ Somos estudiantes de segundo ciclo de la carrera Ingeniería Biomédica PUCP-UPC
 
      Hoobies: Le gusta tocar la guitarra y espantar ancianas.
 
+- ## Luis Diego Espinoza Cuya
+  ![](
+
+     Edad: 17 años
+
+     Apodo: Lucho
+
+     Hoobies: Le gusta tocar ir al gimnasio y la exploración.
+
+
   # 👋 GRACIAS POR VISITAR NUESTRO REPOSITORIO 
  
 
