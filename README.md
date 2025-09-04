@@ -55,7 +55,7 @@ Somos estudiantes de segundo ciclo de la carrera Ingeniería Biomédica PUCP-UPC
      Hoobies: Le gusta tocar la guitarra y espantar ancianas.
 
 - ## Luis Diego Espinoza Cuya
-  ![](
+  ![](https://github.com/xlram27/Grupo1-PIB/blob/main/Imagenes/IMG-20250904-WA0333.jpg)
 
      Edad: 17 años
 
