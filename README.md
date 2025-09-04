@@ -4,6 +4,7 @@
 # 🏷️ DESCRIPCIÓN DEL GRUPO
 Somos estudiantes de segundo ciclo de la carrera Ingeniería Biomédica PUCP-UPCH, del horario B203 del curso "Procesos de Innovación en Bioingeniería". El propósito de este repositorio es compartir el proyecto que vamos a desarrollar a lo largo del curso.
 
+
 # 📑 INTEGRANTES DEL GRUPO
 ![](https://github.com/xlram27/Grupo1-PIB/blob/main/Imagenes/grupo.jpg)
 
@@ -43,6 +44,15 @@ Somos estudiantes de segundo ciclo de la carrera Ingeniería Biomédica PUCP-UPC
      Apodo: Matein
 
      Hoobies: Jugar voley y fútbol.
+
+- ## Alejandro Josue Ramos Guerra
+  ![](https://github.com/xlram27/Grupo1-PIB/blob/main/Imagenes/alejandro.jpg)
+
+     Edad: 18 años
+
+     Apodo: Tato
+
+     Hoobies: Le gusta tocar la guitarra y espantar ancianas.
 
   # 👋 GRACIAS POR VISITAR NUESTRO REPOSITORIO 
  
